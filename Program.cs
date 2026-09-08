@@ -10,9 +10,9 @@ using System.Windows.Media;
 [assembly: AssemblyTitle("DeskRewind")]
 [assembly: AssemblyProduct("DeskRewind")]
 [assembly: AssemblyDescription("Save and restore Windows desktop icon layouts.")]
-[assembly: AssemblyVersion("2.0.0.0")]
-[assembly: AssemblyFileVersion("2.0.0.0")]
-[assembly: AssemblyInformationalVersion("2.0.0")]
+[assembly: AssemblyVersion("1.0.0.0")]
+[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyInformationalVersion("1.0.0")]
 
 namespace DeskRewind.Wpf
 {
@@ -70,7 +70,7 @@ namespace DeskRewind.Wpf
     internal static class RuntimeAssets
     {
         private const string ResourcePrefix = "DeskRewind.";
-        private const string RuntimeVersion = "shell-view-2";
+        private const string RuntimeVersion = "shell-view-1";
         private static readonly string DataRoot = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "DeskRewind");
         private static readonly string RuntimeRoot = Path.Combine(DataRoot, "runtime", RuntimeVersion);
         private static bool _initialized;
