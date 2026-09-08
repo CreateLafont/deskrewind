@@ -1,0 +1,8 @@
+*.exe
+layouts*.json
+*.bak
+test-logs/
+bin/
+obj/
+build.log
+.workbuddy/
