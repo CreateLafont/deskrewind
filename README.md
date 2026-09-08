@@ -1,4 +1,4 @@
-# DeskRewind v2.0.0
+# DeskRewind v1.0.0
 
 Windows 桌面图标布局保存与恢复工具。主界面和布局恢复引擎均内嵌于一个 WPF EXE。
 
