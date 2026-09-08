@@ -6,3 +6,5 @@ bin/
 obj/
 build.log
 .workbuddy/
+AGENTS.md
+HANDOFF.md
