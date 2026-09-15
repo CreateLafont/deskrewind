@@ -1,0 +1,5 @@
+*.exe
+layouts*.json
+*.bak
+bin/
+obj/
